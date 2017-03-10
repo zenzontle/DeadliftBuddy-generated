@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadliftBuddy", "DeadliftBuddy\DeadliftBuddy.csproj", "{1D12E3D3-16A4-4142-A0F5-3544940FC764}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadliftBuddy.Web", "DeadliftBuddy.Web\DeadliftBuddy.Web.csproj", "{1D12E3D3-16A4-4142-A0F5-3544940FC764}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadliftBuddy.Tests", "DeadliftBuddy.Tests\DeadliftBuddy.Tests.csproj", "{48493E2F-93D7-4560-84A4-28ED44C2605D}"
 EndProject

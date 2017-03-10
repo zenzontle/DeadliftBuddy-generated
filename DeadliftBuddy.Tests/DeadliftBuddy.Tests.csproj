@@ -102,7 +102,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DeadliftBuddy\DeadliftBuddy.csproj">
+    <ProjectReference Include="..\DeadliftBuddy.Web\DeadliftBuddy.Web.csproj">
       <Project>{1D12E3D3-16A4-4142-A0F5-3544940FC764}</Project>
       <Name>DeadliftBuddy</Name>
     </ProjectReference>
